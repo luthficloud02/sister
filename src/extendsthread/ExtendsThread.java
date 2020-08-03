@@ -8,6 +8,7 @@ package extendsthread;
 /**
  *
  * @author luthf
+ * ini adalah file yang sudah diedit dan disimpan di github
  */
 public class ExtendsThread extends Thread{
 
